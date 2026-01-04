@@ -29,7 +29,7 @@ It demonstrates **advanced DAX**, **data modeling**, and **dashboard storytellin
 
 ---
 
-## 📊 Dashboard Pages
+## 📊 Dashboard Page
 - **Overview** – High-level KPIs & trends  
 - **Regional Analysis** – State & region performance  
 - **Segment Analysis** – Segment-wise comparison  
