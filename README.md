@@ -53,7 +53,7 @@ It demonstrates **advanced DAX**, **data modeling**, and **dashboard storytellin
 
 ## 📌 Notes
 - This project is created for **learning, portfolio, and demonstration purposes**
-- Dataset used is publicly available (**Sample - Superstore.csv**)
+- Dataset used is publicly available [**Sample - Superstore**](**Sample - Superstore.csv**)
 
 ---
 
